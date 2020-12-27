@@ -10,3 +10,9 @@
 in this file we will introduce you with our job and how it done:
 
 ### Player Movement
+we have several scripts for this section:
+* [PlayerMovement.cs](https://github.com/Gamedev-Project/week-9/blob/main/Assets/Scripts/PlayerMovement.cs) 
+here 
+* [Jump.cs](https://github.com/Gamedev-Project/week-9/blob/main/Assets/Scripts/Jump.cs)
+here we addressed the SpaceBar as our go to key for jumping and we put a jump force Serializable field with 300 force for default and when key pressed we added "Vector3.up" to jump force.
+* [RotateWithMouse.cs](https://github.com/Gamedev-Project/week-9/blob/main/Assets/Scripts/RotateWithMouse.cs)
