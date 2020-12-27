@@ -1,6 +1,6 @@
 # 3d Movement : week 9
  
-![](https://i.imgur.com/dsMaWCZ.gif) 
+![](http://i.imgur.com/wMxKI5Sh.gif)
 
 ## Hello and welcome to our mini-Game 3dMovement
 * where you can move and jump and crawl and even swap weapons and turn the lights !
@@ -12,6 +12,7 @@ in this file we will introduce you with our job and how it done:
 ### Player Movement
 we have several scripts for this section:
 * [PlayerMovement.cs](https://github.com/Gamedev-Project/week-9/blob/main/Assets/Scripts/PlayerMovement.cs) 
+
 here 
 * [Jump.cs](https://github.com/Gamedev-Project/week-9/blob/main/Assets/Scripts/Jump.cs)
 
