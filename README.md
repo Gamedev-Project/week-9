@@ -1,8 +1,7 @@
 # 3d Movement : week 9
 
 ![](http://i.imgur.com/wMxKI5Sh.gif)
-
-### Full gif for essence for the game is [here](https://imgur.com/wMxKI5S)
+### Full gif for essence of the game is [here](https://imgur.com/wMxKI5S)
 
 ## Hello and welcome to our mini-Game 3dMovement
 * where you can move and jump and crawl and even swap weapons and turn the lights !
