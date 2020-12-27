@@ -1,10 +1,12 @@
 # 3d Movement : week 9
 
-![](http://i.imgur.com/wMxKI5Sh.gif)
+![](https://i.imgur.com/wPjz7Tt.gif)
 ### Full gif for essence of the game is [here](https://imgur.com/wMxKI5S)
 
 ## Hello and welcome to our mini-Game 3dMovement
 * where you can move and jump and crawl and even swap weapons and turn the lights !
+
+## Game link is [right here!](https://aviniv.itch.io/3d-movement) (instructions writen inside)
 
 ### we build our world with the help of "Prototyping_Pack_Free" asset from unity Store
 in this file we will introduce you with our job and how it done:
@@ -44,5 +46,3 @@ with a X key press near a lamp it will turn on and off just by setting it Active
 ![](https://i.imgur.com/zhnRKdY.png)
 ![](https://i.imgur.com/D3G6X6U.png)
 ![](https://i.imgur.com/wdR9YXm.png)
-
-## Game link is [right here!](https://aviniv.itch.io/3d-movement) (instructions writen inside)
