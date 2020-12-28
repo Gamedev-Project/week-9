@@ -1,6 +1,5 @@
 # 3d Movement : week 9
-![](https://i.ibb.co/gjbLty2/OurGame.gif)
-![](https://i.imgur.com/KUSAF0h.gif)
+
 ### Full gif for essence of the game is [here](https://imgur.com/wMxKI5S)
 
 ## Hello and welcome to our mini-Game 3dMovement
